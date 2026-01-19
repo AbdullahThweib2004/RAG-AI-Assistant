@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 RAG AI Assistant
 
 Chat with your documents using AI-powered Retrieval-Augmented Generation!
@@ -111,3 +112,6 @@ MIT License
 
 ---
 ⭐ If you find this helpful, give it a star!
+=======
+# RAG-AI-Assistant
+>>>>>>> 606da49bfd2a259a258ebb173821c8873615c16a
