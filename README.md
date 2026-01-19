@@ -63,7 +63,19 @@ echo OPENROUTER_API_KEY=your_key_here > .env
 
 5. Run the application:
 ```bash
-python src/rag.py
+# Open three terminals and run:
+
+# Terminal 1 (Ingestion)
+python src/ingest.py
+
+# Terminal 2 (Backend API)
+cd backend
+python -m uvicorn app.main:app --reload --port 8000
+
+# Terminal 3 (Frontend)
+cd frontend
+npm run dev
+
 ```
 
 ## 🛠️ Tech Stack
