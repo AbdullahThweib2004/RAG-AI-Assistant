@@ -38,7 +38,7 @@ RAG/
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-ai-assistant.git
+git clone https://github.com/AbdullahThweib2004/rag-ai-assistant.git
 cd rag-ai-assistant
 ```
 
