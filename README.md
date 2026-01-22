@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🤖 RAG AI Assistant
 
 Chat with your documents using AI-powered Retrieval-Augmented Generation!
